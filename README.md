@@ -1,4 +1,4 @@
-* Lieon   [Lieon](lion.md)
-* Tiger   [Traversay Media](tiger.md)
-* Leopard [Traversay Media](leopard.md)
-* Cat     [Traversay Media](cat.md)
+* [Lieon](lion.md)
+* [Tiger](tiger.md)
+* [Leopard](leopard.md)
+* [Cat](cat.md)
